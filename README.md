@@ -3,7 +3,11 @@
 Sistema completo para análise preditiva de dados da NBA usando **Regressão Linear** e **Regressão Logística**.  
 **Time analisado: Chicago Bulls** | **Temporada 2024-25**
 
-## 📋 Descrição
+## � Autores
+
+Projeto realizado por [José Daniel](https://github.com/JoseDanielF), [Rian Wilker](https://github.com/RWilker87) e Pedro Medeiros.
+
+## �📋 Descrição
 
 Este sistema baixa dados **REAIS** da NBA usando a `nba_api` e realiza análises estatísticas avançadas para prever:
 
